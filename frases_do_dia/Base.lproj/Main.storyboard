@@ -29,7 +29,7 @@
                                     <color key="titleColor" red="0.99991601705551147" green="1" blue="0.99987202882766724" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 </state>
                                 <connections>
-                                    <action selector="newPrhase:" destination="BYZ-38-t0r" eventType="touchUpInside" id="R9Y-Do-OEO"/>
+                                    <action selector="newPhrase:" destination="BYZ-38-t0r" eventType="touchUpInside" id="iKR-Ee-9EG"/>
                                 </connections>
                             </button>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="aspas-esquerda.png" translatesAutoresizingMaskIntoConstraints="NO" id="QLn-4t-mQ0">
