@@ -13,6 +13,9 @@
 		CC9885D7263741BA00B7D3A6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CC9885D5263741BA00B7D3A6 /* Main.storyboard */; };
 		CC9885D9263741BB00B7D3A6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CC9885D8263741BB00B7D3A6 /* Assets.xcassets */; };
 		CC9885DC263741BB00B7D3A6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CC9885DA263741BB00B7D3A6 /* LaunchScreen.storyboard */; };
+		CC9885E72637420700B7D3A6 /* logo.png in Resources */ = {isa = PBXBuildFile; fileRef = CC9885E42637420700B7D3A6 /* logo.png */; };
+		CC9885E82637420700B7D3A6 /* aspas-esquerda.png in Resources */ = {isa = PBXBuildFile; fileRef = CC9885E52637420700B7D3A6 /* aspas-esquerda.png */; };
+		CC9885E92637420700B7D3A6 /* aspas-direita.png in Resources */ = {isa = PBXBuildFile; fileRef = CC9885E62637420700B7D3A6 /* aspas-direita.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +27,9 @@
 		CC9885D8263741BB00B7D3A6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CC9885DB263741BB00B7D3A6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CC9885DD263741BB00B7D3A6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CC9885E42637420700B7D3A6 /* logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo.png; sourceTree = "<group>"; };
+		CC9885E52637420700B7D3A6 /* aspas-esquerda.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "aspas-esquerda.png"; sourceTree = "<group>"; };
+		CC9885E62637420700B7D3A6 /* aspas-direita.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "aspas-direita.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +62,9 @@
 		CC9885CE263741BA00B7D3A6 /* frases_do_dia */ = {
 			isa = PBXGroup;
 			children = (
+				CC9885E62637420700B7D3A6 /* aspas-direita.png */,
+				CC9885E52637420700B7D3A6 /* aspas-esquerda.png */,
+				CC9885E42637420700B7D3A6 /* logo.png */,
 				CC9885CF263741BA00B7D3A6 /* AppDelegate.swift */,
 				CC9885D1263741BA00B7D3A6 /* SceneDelegate.swift */,
 				CC9885D3263741BA00B7D3A6 /* ViewController.swift */,
@@ -124,9 +133,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CC9885E72637420700B7D3A6 /* logo.png in Resources */,
 				CC9885DC263741BB00B7D3A6 /* LaunchScreen.storyboard in Resources */,
 				CC9885D9263741BB00B7D3A6 /* Assets.xcassets in Resources */,
 				CC9885D7263741BA00B7D3A6 /* Main.storyboard in Resources */,
+				CC9885E82637420700B7D3A6 /* aspas-esquerda.png in Resources */,
+				CC9885E92637420700B7D3A6 /* aspas-direita.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
